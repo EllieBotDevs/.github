@@ -2,6 +2,12 @@
 
 Here you can find our current stuff with more on the horizon
 
+### Below are latest links to the Ellie Bot project blog posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 
 **Here are some ideas to get you started:**
