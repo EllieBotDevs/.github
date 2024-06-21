@@ -1,4 +1,5 @@
-## ⚠️ this organisation has moved to [https://toastielab.dev/EllieBotDevs](https://toastielab.dev/EllieBotDevs)
+> [!NOTE]
+> This organisation has moved to [https://toastielab.dev/EllieBotDevs](https://toastielab.dev/EllieBotDevs)
 
 if you require an account on Toastielab please contact their support team at support@toastielab.xyz and they should be able to help
 
