@@ -1,4 +1,6 @@
-## ⚠️ this organisation is moving at some point in the future to [https://toastielab.dev/EllieBotDevs](https://toastielab.dev/EllieBotDevs)
+## ⚠️ this organisation has moved to [https://toastielab.dev/EllieBotDevs](https://toastielab.dev/EllieBotDevs)
+
+if you require an account on Toastielab please contact their support team at support@toastielab.xyz and they should be able to help
 
 ## Hi there we are the EllieBotDevs 👋
 
