@@ -10,11 +10,11 @@ Here you can find our current stuff with more on the horizon
 ### Below are latest links to the Ellie Bot project blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Toastie has been](https://blog.elliebot.net/where-toastie-has-been)
-- [Ellie bot and project birthday](https://blog.elliebot.net/ellie-bday-2022)
-- [Another small update](https://blog.elliebot.net/another-update)
-- [Welcome to our new team members](https://blog.elliebot.net/welcome-team-members)
-- [Update on Stuff](https://blog.elliebot.net/small-update-on-things)
+- [Where we have been](https://blog.elliebot.net/posts/where-we-have-been/)
+- [Where toastie has been](https://blog.elliebot.net/posts/where-toastie-has-been/)
+- [Ellie bday 2022](https://blog.elliebot.net/posts/ellie-bday-2022/)
+- [Another update](https://blog.elliebot.net/posts/another-update/)
+- [Small update](https://blog.elliebot.net/posts/small-update/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
